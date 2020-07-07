@@ -1,5 +1,5 @@
 # COVID-19 Tracker
-![COVID-19 Tracker](https://i.ibb.co/dfKR47K/Fire-Shot-Capture-001-COVID-19-Tracker-coroviro-19-netlify-app.png)
+![COVID-19 Tracker](https://github.com/danielalves96/Images/blob/master/Projetos/Covid/1.png?raw=true)
 
 ### [Live Site](https://coroviro-19.netlify.app/)
 
